@@ -1,0 +1,19 @@
+body{
+    background: url(../src/images/main-banner.jpg);
+    background-size: cover;
+    background-position:center ;
+    background-repeat: no-repeat;
+}
+.nav,.navbar{
+height:100px;
+border-radius:100px;
+width:90%;
+}
+.form-col{
+    opacity: 0.9;
+    backdrop-filter: blur(5px);
+}
+svg{
+    width:200px;
+    height:200px
+}
